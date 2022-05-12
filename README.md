@@ -1,4 +1,4 @@
-# Azure and Terraform Sandbox
+# Kubernetes, Azure, Terraform and DevOps Sandbox
 
 ## Base setup
 

@@ -24,6 +24,9 @@ Each subdirectory represents one scenario and usually corresponds to one TF Clou
 
 Create an AKS cluster with following features:
 
+* Nodes using Ubuntu
+* Azure CNI
+* Separate vnet and subnet
 * Single nodepool with autoscaling enabled
 * AKS managed Azure AD integration
 * System-assigned managed Identity
